@@ -19,35 +19,35 @@ The repo contains all the list of Open Source Programs I participated and the co
   <tbody>
     <tr align="center">
       <td>1.</td>
-      <td align="left">Cross Winter of Code</td>
+      <td align="left"><a href="#crosswoc">Cross Winter of Code</a></td>
       <td>February 2021 - March 2021</td>
       <td>3</td>
       <td>15</td>
     </tr>
     <tr align="center">
       <td>2.</td>
-      <td align="left">GirlScript Summer of Code</td>
+      <td align="left"><a href="#gssoc">GirlScript Summer of Code</a></td>
       <td>March 2021 - May 2021</td>
       <td>2</td>
       <td>7</td>
     </tr>
     <tr align="center">
       <td>3.</td>
-      <td align="left">Hack Club SRM Summer of Code</td>
+      <td align="left"><a href="#hcssoc">Hack Club SRM Summer of Code</a></td>
       <td>June 2021 - July 2021</td>
       <td>1</td>
       <td>14</td>
     </tr>
     <tr align="center">
       <td>4.</td>
-      <td align="left">DevIncept</td>
+      <td align="left"><a href="#devincept">DevIncept</a></td>
       <td>July 2021 - August 2021</td>
       <td>2</td>
       <td>9</td>
     </tr>
     <tr align="center">
       <td>5.</td>
-      <td align="left">Miscellaneous</td>
+      <td align="left"><a href="#miscellaneous">Miscellaneous</a></td>
       <td>March 2021 - June 2021</td>
       <td>1</td>
       <td>27</td>
@@ -56,6 +56,8 @@ The repo contains all the list of Open Source Programs I participated and the co
 </table>
 
 ---
+
+<a name="crosswoc"></a>
 
 ## 1. Cross Winter of Code
 
@@ -125,6 +127,8 @@ The repo contains all the list of Open Source Programs I participated and the co
 
 ---
 
+<a name="gssoc"></a>
+
 ## 2. GirlScript Summer of Code
 
 
@@ -171,6 +175,8 @@ The repo contains all the list of Open Source Programs I participated and the co
 
 ---
 
+<a name="hcssoc"></a>
+
 ## 3. Hack Club SRM Summer of Code
 
 
@@ -215,6 +221,8 @@ The repo contains all the list of Open Source Programs I participated and the co
 </table>
 
 ---
+
+<a name="devincept"></a>
 
 ## 4. DevIncept
 
@@ -270,6 +278,7 @@ The repo contains all the list of Open Source Programs I participated and the co
 
 ---
 
+<a name="miscellaneous"></a>
 
 ## 5. Miscellaneous
 
