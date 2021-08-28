@@ -17,6 +17,13 @@ The repo contains all the list of Open Source Programs I participated and the co
       <td>3</td>
       <td>15</td>
     </tr>
+    <tr align="center">
+      <td>2.</td>
+      <td align="left">GirlScript Summer of Code</td>
+      <td>March 2021 - May 2021</td>
+      <td>2</td>
+      <td>7</td>
+    </tr>
   </tbody>
 </table>
 
@@ -83,6 +90,52 @@ The repo contains all the list of Open Source Programs I participated and the co
       <td>
         Design <br>
         Canva <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 2. GirlScript Summer of Code
+
+
+<table>
+  <thead>
+    <th>S.No.</th>
+    <th>Repository Name</th>
+    <th>Total Merged PRs</th>
+    <th>Merged PRs</th>
+    <th>Tech Stack</th>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>1.</td>
+      <td align="left"><a href="https://github.com/TesseractCoding/NeoAlgo">NeoAlgo</a></td>
+      <td>6</td>
+      <td>
+        <a href="https://github.com/TesseractCoding/NeoAlgo/pull/2999">PR - 1</a> <br> 
+        <a href="https://github.com/TesseractCoding/NeoAlgo/pull/4518">PR - 2</a> <br> 
+        <a href="https://github.com/TesseractCoding/NeoAlgo/pull/6778">PR - 3</a> <br> 
+        <a href="https://github.com/TesseractCoding/NeoAlgo/pull/6793">PR - 4</a> <br> 
+        <a href="https://github.com/TesseractCoding/NeoAlgo/pull/6809">PR - 5</a> <br> 
+        <a href="https://github.com/TesseractCoding/NeoAlgo/pull/7305">PR - 6</a> <br>
+      </td>
+      <td>
+        Data Structures and Algorithms <br>
+        Kotlin <br>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>2.</td>
+      <td align="left"><a href="https://github.com/Algo-Phantoms/Algo-Tree">Algo Tree</a></td>
+      <td>1</td>
+      <td>
+        <a href="https://github.com/Algo-Phantoms/Algo-Tree/pull/539">PR - 1</a> <br>
+      </td>
+      <td>
+        Data Structures and Algorithms <br>
+        CPP <br>
       </td>
     </tr>
   </tbody>
