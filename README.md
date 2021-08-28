@@ -38,6 +38,13 @@ The repo contains all the list of Open Source Programs I participated and the co
       <td>2</td>
       <td>9</td>
     </tr>
+    <tr align="center">
+      <td>5.</td>
+      <td align="left">Miscellaneous</td>
+      <td>March 2021 - June 2021</td>
+      <td>1</td>
+      <td>27</td>
+    </tr>
   </tbody>
 </table>
 
@@ -249,6 +256,63 @@ The repo contains all the list of Open Source Programs I participated and the co
         CSS <br>
         JS <br>
         Bootstrap <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+
+## 5. Miscellaneous
+
+
+<table>
+  <thead>
+    <th>S.No.</th>
+    <th>Repository Name</th>
+    <th>Total Merged PRs</th>
+    <th>Merged PRs</th>
+    <th>Tech Stack</th>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>1.</td>
+      <td align="left"><a href="https://github.com/kiruba-r11/CompetitiveProgrammingQuestionBank">Competitive Programming Question Bank</a></td>
+      <td>27</td>
+      <td>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/45">PR - 1</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/48">PR - 2</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/50">PR - 3</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/52">PR - 4</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/55">PR - 5</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/59">PR - 6</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/61">PR - 7</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/63">PR - 8</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/69">PR - 9</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/74">PR - 10</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/127">PR - 11</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/133">PR - 12</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/140">PR - 13</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/142">PR - 14</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/144">PR - 15</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/152">PR - 16</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/155">PR - 17</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/159">PR - 18</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/172">PR - 19</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/175">PR - 20</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/177">PR - 21</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/181">PR - 22</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/187">PR - 23</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/191">PR - 24</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/194">PR - 25</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/197">PR - 26</a> <br>
+        <a href="https://github.com/smv1999/CompetitiveProgrammingQuestionBank/pull/202">PR - 27</a> <br>
+      </td>
+      <td>
+        Data Structures and Algorithms <br>
+        CPP <br>
+        Python <br>
       </td>
     </tr>
   </tbody>
