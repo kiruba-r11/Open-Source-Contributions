@@ -24,6 +24,13 @@ The repo contains all the list of Open Source Programs I participated and the co
       <td>2</td>
       <td>7</td>
     </tr>
+    <tr align="center">
+      <td>3.</td>
+      <td align="left">Hack Club SRM Summer of Code</td>
+      <td>June 2021 - July 2021</td>
+      <td>1</td>
+      <td>14</td>
+    </tr>
   </tbody>
 </table>
 
@@ -142,3 +149,49 @@ The repo contains all the list of Open Source Programs I participated and the co
 </table>
 
 ---
+
+## 3. Hack Club SRM Summer of Code
+
+
+<table>
+  <thead>
+    <th>S.No.</th>
+    <th>Repository Name</th>
+    <th>Total Merged PRs</th>
+    <th>Merged PRs</th>
+    <th>Tech Stack</th>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>1.</td>
+      <td align="left"><a href="https://github.com/Ayush7614/Bundli-Frontend">Bundli Frontend</a></td>
+      <td>14</td>
+      <td>
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/35">PR - 1</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/38">PR - 2</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/44">PR - 3</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/52">PR - 4</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/65">PR - 5</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/75">PR - 6</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/102">PR - 7</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/165">PR - 8</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/191">PR - 9</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/192">PR - 10</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/207">PR - 11</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/209">PR - 12</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/262">PR - 13</a> <br> 
+        <a href="https://github.com/Ayush7614/Bundli-Frontend/pull/269">PR - 14</a> <br> 
+      </td>
+      <td>
+        Front-End Web Development <br>
+        HTML <br>
+        CSS <br>
+        JS <br>
+        Bootstrap <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
