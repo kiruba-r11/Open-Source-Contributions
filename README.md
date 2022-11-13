@@ -345,7 +345,7 @@ The repo contains all the list of Open Source Programs I participated and the co
 
 <a name="hacktoberfest"></a>
 
-## 2. Hacktoberfest
+## 6. Hacktoberfest
 
 
 <table>
