@@ -52,6 +52,13 @@ The repo contains all the list of Open Source Programs I participated and the co
       <td>1</td>
       <td>27</td>
     </tr>
+    <tr align="center">
+      <td>6.</td>
+      <td align="left"><a href="#hacktoberfest">Hacktoberfest</a></td>
+      <td>October 2022 - October 2022</td>
+      <td>2</td>
+      <td>5</td>
+    </tr>
   </tbody>
 </table>
 
@@ -336,3 +343,48 @@ The repo contains all the list of Open Source Programs I participated and the co
 
 ---
 
+<a name="hacktoberfest"></a>
+
+## 2. Hacktoberfest
+
+
+<table>
+  <thead>
+    <th>S.No.</th>
+    <th>Repository Name</th>
+    <th>Total Merged PRs</th>
+    <th>Merged PRs</th>
+    <th>Tech Stack</th>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>1.</td>
+      <td align="left"><a href="https://github.com/hackelite01/hacktoberfest_2022">hacktoberfest_2022</a></td>
+      <td>4</td>
+      <td>
+        <a href="https://github.com/hackelite01/hacktoberfest_2022/pull/9">PR - 1</a> <br> 
+        <a href="https://github.com/hackelite01/hacktoberfest_2022/pull/10">PR - 2</a> <br> 
+        <a href="https://github.com/hackelite01/hacktoberfest_2022/pull/12">PR - 3</a> <br> 
+        <a href="https://github.com/hackelite01/hacktoberfest_2022/pull/13">PR - 4</a> <br> 
+      </td>
+      <td>
+        Data Structures and Algorithms <br>
+        CPP <br>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>2.</td>
+      <td align="left"><a href="https://github.com/ToddChavez09/DSA">DSA</a></td>
+      <td>1</td>
+      <td>
+        <a href="https://github.com/ToddChavez09/DSA/pull/40">PR - 1</a> <br>
+      </td>
+      <td>
+        Data Structures and Algorithms <br>
+        CPP <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
